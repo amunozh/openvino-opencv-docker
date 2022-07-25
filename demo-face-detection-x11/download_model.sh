@@ -2,7 +2,7 @@
 
 set -x
 
-MODEL_NAME=${1:-face-detection-retail-0004}
+MODEL_NAME=${face-detection-retail-0004}
 MODEL_TYPE=FP16
 DOWNLOAD_DIR=models
 
